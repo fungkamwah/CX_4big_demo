@@ -1,5 +1,3 @@
-# CX_4big_demo
-Android上手练习5.四大组件（二）
 
 安卓的四大组件是Activity（活动）、Service（服务）、BroadcastReceiver（广播接收器）、ContentProvider（内容提供者）。
 
@@ -244,12 +242,12 @@ AndroidManifest.xml
 
 运行后，点击START，连续多次点START，查看logcat。
 
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190322-104631.png)
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190322-104736.png)
+![image](http://youdao.mikezz.cn/QQ20190322-104631.png-wardo)
+![image](http://youdao.mikezz.cn/QQ20190322-104736.png-wardo)
 
 点击STOP
 
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190322-105234.png)
+![image](http://youdao.mikezz.cn/QQ20190322-105234.png-wardo)
 
 ### 2.3 BindService
 
